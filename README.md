@@ -4,3 +4,7 @@ ParseEq is a an importable Java-based parser that takes an equation (e.g. (1+(5*
 
 ## Compilation and Running
 
+Assuming `ParseEq.java` is located in the same the directory, to import ParseEq:
+```
+vabeb
+```
