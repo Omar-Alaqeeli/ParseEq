@@ -33,4 +33,11 @@ solution = solveFor.ParseEq(y);
 The returned value is the string `81.25`.
 
 ### Example 3:
-z = 
+z = ((2**4)+55/(-3))
+```
+String z = "((2**4)+55/(-3))";
+ParseEq solveFor = new ParseEq();
+solution = solveFor.ParseEq(z);
+```
+
+The returned value is the string `-2.333334`.
