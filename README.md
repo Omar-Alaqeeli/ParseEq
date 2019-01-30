@@ -1,6 +1,7 @@
 # ParseEq
 
-**ParseEq** is a an importable Java-based parser that takes an equation (e.g. (1+(5*(8/10))) ) as a *string* and calculates the sum. The returned value is also a *string* thus the user can convert it into a preferable type (integer, float or string). ParseEq can efficiently handle numbers and operations, including negative numbers, parentheses, and Exponentiations. ParseEq can be used as part of Java library and it is mostly useful when building compilers and interpreters. The file `ParseEq.java` is the the file that need to be imported. 
+**ParseEq** is a an importable Java-based parser that takes an equation (e.g. (1+(5*(8/10))) ) as a *string* and calculates the sum. The returned value is also a *string* thus the user can convert it into a preferable type (integer, float or string). ParseEq can efficiently handle numbers and operations, including negative numbers, parentheses, and Exponentiations. ParseEq can be used as part of Java library and it is mostly useful when building compilers and interpreters. The file `ParseEq.java` is the file that need to be imported. 
+
 Note: The `Demo.java` is only for demonstrating how `ParseEq.java` will work in reality. 
 
 ## Importing and Running 
