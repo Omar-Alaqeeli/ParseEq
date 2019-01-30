@@ -6,7 +6,7 @@ Note: The `Demo.java` is only for demonstrating how `ParseEq.java` will work in 
 
 ## Importing and Running 
 
-Assuming `ParseEq.java` is located in the same the directory as the importing program and has been successfully compiled, to import ParseEq, first define a new ParseEq class and pass the equation to be evaluated as a string to this class:
+Assuming `ParseEq.java` is located in the same the directory as the importing program and has been successfully compiled, to import ParseEq, first define a new ParseEq class and pass the equation to be evaluated as a string:
 ```
 ParseEq solveFor = new ParseEq();
 solution = solveFor.ParseEq(equation);
