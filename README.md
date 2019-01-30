@@ -9,4 +9,6 @@ Assuming `ParseEq.java` is located in the same the directory as the importing pr
 ParseEq solveFor = new ParseEq();
 solution = solveFor.ParseEq(equation);
 ```
-The returned value is 
+The returned value is the sum of the equation which is also of type string. 
+
+### Example:
